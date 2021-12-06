@@ -1,4 +1,4 @@
-// REDO Again :(
+// Try again
 // const key_url = "https://randomstreamerinfo.pages.dev/bitmovin_player_key.txt"
 const key_url = "https://github.com/PH4NTOM-3NCOD3R/RandomStreamerInfo/raw/main/bitmovin_player_key.txt"
 
